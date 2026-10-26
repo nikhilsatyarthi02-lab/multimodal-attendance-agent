@@ -1,0 +1,21 @@
+{
+  "video": "demo.mp4",
+  "duration_sec": 60.0,
+  "audio_available": true,
+  "participants_detected": 2,
+  "present": 2,
+  "warnings": [],
+  "findings": [
+    "Average session engagement: 72%.",
+    "Attention drop at 00:00:20 (1 window(s)) - Not in frame: P1.",
+    "Attention drop at 00:00:40 (1 window(s)) - Not in frame: P2.",
+    "Engagement peaked at 00:00:10 (93%).",
+    "Engagement trends downward across the session."
+  ],
+  "suggestions": [
+    "Around 00:00:20, insert a quick poll, question or 2-minute activity to re-engage the class.",
+    "Around 00:00:40, insert a quick poll, question or 2-minute activity to re-engage the class.",
+    "Reuse the approach used near 00:00:10 (it held attention best).",
+    "Consider shorter segments or a mid-session break to counter fatigue."
+  ]
+}

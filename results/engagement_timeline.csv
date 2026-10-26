@@ -1,0 +1,7 @@
+window,start,t_mid,participants,audio_activity,noise_db,noise_level,engagement,note
+0,00:00:00,5.0,2,1.0,-22.8,Moderate,0.922,
+1,00:00:10,15.0,2,0.8,-23.8,Moderate,0.932,
+2,00:00:20,25.0,1,0.0,-50.7,Quiet,0.394,Not in frame: P1
+3,00:00:30,35.0,2,0.0,-50.7,Quiet,0.711,
+4,00:00:40,45.0,1,0.8,-23.8,Moderate,0.46,Not in frame: P2
+5,00:00:50,55.0,2,1.0,-22.8,Moderate,0.92,

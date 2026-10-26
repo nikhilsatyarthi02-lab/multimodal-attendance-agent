@@ -1,0 +1,11 @@
+window,start,participant,attention,presence,movement_score,audio_score,motion,engagement,explanation
+0,00:00:00,P1,1.0,1.0,0.44,1.0,0.013,0.916,mostly facing the camera; very little movement; class audio active
+0,00:00:00,P2,1.0,1.0,0.52,1.0,0.017,0.929,mostly facing the camera; very little movement; class audio active
+1,00:00:10,P1,1.0,0.96,0.62,1.0,0.017,0.937,mostly facing the camera; class audio active
+1,00:00:10,P2,1.0,0.98,0.53,1.0,0.018,0.926,mostly facing the camera; very little movement; class audio active
+2,00:00:20,P2,1.0,1.0,0.58,0.0,0.018,0.787,mostly facing the camera; little audio interaction
+3,00:00:30,P1,1.0,0.2,0.44,0.0,0.015,0.646,mostly facing the camera; in frame only 20% of the window; very little movement; little audio interaction
+3,00:00:30,P2,1.0,0.98,0.53,0.0,0.016,0.776,mostly facing the camera; very little movement; little audio interaction
+4,00:00:40,P1,1.0,0.96,0.5,1.0,0.016,0.92,mostly facing the camera; very little movement; class audio active
+5,00:00:50,P1,1.0,0.96,0.45,1.0,0.014,0.911,mostly facing the camera; very little movement; class audio active
+5,00:00:50,P2,1.0,1.0,0.52,1.0,0.018,0.929,mostly facing the camera; very little movement; class audio active
